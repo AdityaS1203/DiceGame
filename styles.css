@@ -1,0 +1,34 @@
+.bodyclass{
+  background-color: #3fb0ac;
+}
+h1{
+  text-align:center;
+  font-style: italic;
+  margin-bottom:5rem;
+  font-size: 5rem;
+}
+.img{
+  margin-bottom: 2rem;
+}
+.img1{
+  width: 15rem;
+  margin-left: 25rem;
+}
+.img2{
+  width:15rem;
+  margin-left: 12.5rem;
+}
+h3{
+  display: inline;
+  font-size: 2rem;
+}
+.p1{
+  margin-left: 30rem;
+}
+.p2{
+  margin-left: 20rem;
+}
+footer{
+  margin-top: 5rem;
+  text-align: center;
+}
